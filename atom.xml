@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RelynArenim/kogorhun.github.io</id>
     <title>Kogoruhn</title>
-    <updated>2021-01-17T09:07:40.121Z</updated>
+    <updated>2021-01-17T10:11:13.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://RelynArenim/kogorhun.github.io"/>
     <link rel="self" href="https://RelynArenim/kogorhun.github.io/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://RelynArenim/kogorhun.github.io/images/avatar.png</logo>
     <icon>https://RelynArenim/kogorhun.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Kogoruhn</rights>
+    <entry>
+        <title type="html"><![CDATA[Lo]]></title>
+        <id>https://RelynArenim/kogorhun.github.io/post/lo/</id>
+        <link href="https://RelynArenim/kogorhun.github.io/post/lo/">
+        </link>
+        <updated>2021-01-17T10:09:08.000Z</updated>
+        <content type="html"><![CDATA[<p>没有语言便不会有文字，没有文字便不会有讯息，但只有在静默中才不会有错误；之后，即使在第一则讯息结束之前，肇始之时便有第一个错误，“Lo”。如此我们得以进入太阳居屋的上层。</p>
+]]></content>
+    </entry>
 </feed>
