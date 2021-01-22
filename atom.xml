@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kogoruhn.com/</id>
     <title>Kogoruhn</title>
-    <updated>2021-01-22T08:18:35.589Z</updated>
+    <updated>2021-01-22T08:20:40.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kogoruhn.com/"/>
     <link rel="self" href="https://kogoruhn.com/atom.xml"/>
@@ -34,7 +34,7 @@
         <link href="https://kogoruhn.com/post/lo/">
         </link>
         <updated>2021-01-17T11:05:50.000Z</updated>
-        <content type="html"><![CDATA[<p>没有语言便不会有文字，没有文字便不会有讯息，只有不发一言才不会有错误；之后，在第一则讯息结束前，便有了第一个错误：“Lo”。如此我们得以进入Kogoruhn。</p>
-<!-- more -->]]></content>
+        <content type="html"><![CDATA[<p>没有语言便不会有文字，没有文字便不会有讯息，只有不发一言才不会有错误；之后，在第一则讯息结束前，便有了第一个错误：“Lo”。如此我们得以进入Kogoruhn。<!-- more --></p>
+]]></content>
     </entry>
 </feed>
